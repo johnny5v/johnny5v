@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @johnny5v
-- 👀 I’m interested in automating things
-- 🌱 I’m currently learning kubernetes technology
-- 💞️ I’m looking to collaborate on new year
+- 👀 I’m an automation practioner
+- 🌱 I’m a Gitops supporter
+- 💞️ I’m working on orchestrating kubernetes with Argocds ...
 
 <!---
 johnny5v/johnny5v is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
